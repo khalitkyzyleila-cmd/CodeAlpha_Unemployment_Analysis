@@ -1,0 +1,18 @@
+DATA QUALITY
+Main dataset rows before cleaning: 768
+Blank/missing-key rows removed: 28
+Duplicate rows detected in supplied main file: 27
+Rows after cleaning: 740
+
+COVID-19 ANALYSIS
+Average unemployment rate, Jan-Feb 2020: 9.23%
+Average unemployment rate, Mar-May 2020: 18.75%
+Increase in unemployment rate: 9.52 percentage points
+Relative increase: 103.2%
+
+Average estimated employed, Jan-Feb 2020: 15,562,733
+Average estimated employed, Mar-May 2020: 12,205,418
+Change in estimated employed: -21.6%
+
+INTERPRETATION
+The data show a sharp unemployment shock in April-May 2020, followed by a substantial decline in unemployment from June onward. The pattern is consistent with a major labor-market disruption during the COVID-19 period, followed by partial recovery.
